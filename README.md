@@ -18,5 +18,6 @@ I am a developer who focuses on building scalable applications while understandi
 ---
 
 ### 📈 GitHub Stats
-![MY STATS](https://github-readme-stats.vercel.app/api?username=[PRUTHVIRAJ H]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[PRUTHVIRAJ H]&layout=compact&theme=radical)
+![MY STATS](https://github-readme-stats.vercel.app/api?username=[PRUTHVIRAJ_H]&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[PRUTHVIRAJ_H]&layout=compact&theme=radical)
