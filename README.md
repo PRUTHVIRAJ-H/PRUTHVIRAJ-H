@@ -11,7 +11,7 @@ I am a developer who focuses on building scalable applications while understandi
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Web:** MongoDB, Express.js, React, Node.js, Electron.
+- **Web:** MongoDB, Express.js, React, Node.js.
 - **Systems/Hardware:** Verilog HDL, Assembly, Computer Architecture(RISC AND CISC),Preferably ARM.
 - **Interests:** DevOps,Coud Computing.
 
