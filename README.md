@@ -1,7 +1,7 @@
 # Hi there! I'm PRUTHVIRAJ H 👋
 
 ### Computer Science Student | PES University
-I am a developer who focuses on building scalable applications while understanding the logic "under the hood." I prefer mastering real-time usage and system-level architecture over rote memorization.
+I am a developer who focuses on building scalable applications and deploying them while understanding the logic "under the hood." I prefer mastering real-time usage and system-level architecture.
 
 - 🚀 **Core Expertise:** Full-stack development with the **Python(FastAPI and Flask) MERN Stack**.
 - ⚙️ **Systems Logic:** Deep interest in **Silicon-level knowledge**, hardware-software interfacing.
